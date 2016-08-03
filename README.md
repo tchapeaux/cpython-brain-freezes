@@ -1,7 +1,7 @@
 # cpython-brain-freezes
 Repo of scripts written and ran once to test the behavior of CPython.
 
-Archived as an art project expressing the scientific method as a tool against self-imposed complexity. Ironically.
+Archived as an art project expressing the struggle of a man trying to find simple answers from a complex system.
 
     Copyright © 2016 Thomas Chapeaux chapeauxthomas@gmail.com
     This work is free. You can redistribute it and/or modify it under the
