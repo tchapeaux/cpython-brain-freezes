@@ -1,4 +1,4 @@
-# Playground snippets for CPythno
+# Playground snippets for CPython
 Repo of scripts written and ran once to test the behavior of CPython.
 
 Archived as an art project expressing the struggle of a man trying to find simple answers from a complex system.
