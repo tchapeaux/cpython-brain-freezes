@@ -1,4 +1,4 @@
-# cpython-brain-freezes
+# Playground snippets for CPythno
 Repo of scripts written and ran once to test the behavior of CPython.
 
 Archived as an art project expressing the struggle of a man trying to find simple answers from a complex system.
