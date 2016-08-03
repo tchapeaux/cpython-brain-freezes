@@ -4,3 +4,4 @@ print a
 print a[3:]
 print a[:3]
 print a[1:-2]
+print a[:len(a)]
