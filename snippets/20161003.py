@@ -1,6 +1,6 @@
 class Foo(object):
-    def __init__(self, param=None):
-        self.param = param if param is not None else []
+    def __init__(self, param=[]):
+        self.param = param
 
 
 f = Foo()
