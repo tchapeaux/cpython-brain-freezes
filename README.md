@@ -1,5 +1,5 @@
 # Playground snippets for CPython
-Repo of scripts written and ran once to test the behavior of CPython.
+Repo of scripts written and ran once to test the behavior of CPython. Used version: Python 2.7.10
 
 Archived as an art project expressing the struggle of a man trying to find simple answers from a complex system.
 
